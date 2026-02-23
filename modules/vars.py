@@ -1,13 +1,13 @@
-#🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌
+##satish
 # Add your details here and then deploy by clicking on HEROKU Deploy button
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "20527556"))
-API_HASH = environ.get("API_HASH", "85d84f730c4e2f13bdf3efbce7d3352e")
+API_ID = int(environ.get("API_ID", "32055524"))
+API_HASH = environ.get("API_HASH", "52777b469ffe310595012e55028d746d")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-OWNER = int(environ.get("OWNER", "8349653190"))
+OWNER = int(environ.get("OWNER", "6231590946"))
 CREDIT = environ.get("CREDIT", "TUC")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
@@ -33,4 +33,3 @@ photoyt = 'https://tinypic.host/images/2025/03/18/YouTube-Logo.wine.png' #https:
 photocp = 'https://tinypic.host/images/2025/03/28/IMG_20250328_133126.jpg'
 photozip = 'https://envs.sh/cD_.jpg'
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.
-
